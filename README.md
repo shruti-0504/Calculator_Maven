@@ -5,12 +5,12 @@ Tech:
 Java, Swing, Maven, UI/UX Design, Event Handling, Java AWT, JUnit Testing.
 
 Features:
- Basic Arithmetic Operations – Supports addition, subtraction, multiplication, and division.
- Graphical User Interface (GUI) – Built using Java Swing for an interactive and modern look.
- Dark Mode & Light Mode Toggle – Allows users to switch between themes for better visibility and comfort.
- Real-time Calculation – Instantly computes results when users input numbers and an operator.
- Error Handling – Displays error messages for invalid inputs or division by zero.
- Cross-Platform Compatibility – Works on any system with Java installed.
+ - Basic Arithmetic Operations – Supports addition, subtraction, multiplication, and division.
+ - Graphical User Interface (GUI) – Built using Java Swing for an interactive and modern look.
+ - Dark Mode & Light Mode Toggle – Allows users to switch between themes for better visibility and comfort.
+ - Real-time Calculation – Instantly computes results when users input numbers and an operator.
+ - Error Handling – Displays error messages for invalid inputs or division by zero.
+ - Cross-Platform Compatibility – Works on any system with Java installed.
 
 How to Use:
 Launch the Application – Run the program using mvn exec:java -Dexec.mainClass="org.example.CalculatorGUI".
