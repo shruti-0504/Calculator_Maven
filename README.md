@@ -13,7 +13,7 @@ Features:
  - Cross-Platform Compatibility – Works on any system with Java installed.
 
 How to Use:
-Launch the Application – Run the program using mvn exec:java -Dexec.mainClass="org.example.CalculatorGUI".
+- Launch the Application – Run the program using mvn exec:java -Dexec.mainClass="org.example.CalculatorGUI".
 - Enter Numbers – Type the first number in the provided input field.
 - Select an Operator – Enter +, -, *, or / in the operator input field.
 - Enter Second Number – Type the second number in the respective field.
