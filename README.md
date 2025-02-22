@@ -14,14 +14,14 @@ Features:
 
 How to Use:
 Launch the Application – Run the program using mvn exec:java -Dexec.mainClass="org.example.CalculatorGUI".
-Enter Numbers – Type the first number in the provided input field.
-Select an Operator – Enter +, -, *, or / in the operator input field.
-Enter Second Number – Type the second number in the respective field.
-Click "Calculate" – The result is displayed instantly.
-Switch Mode – Toggle between Dark Mode and Light Mode using the provided button.
+- Enter Numbers – Type the first number in the provided input field.
+- Select an Operator – Enter +, -, *, or / in the operator input field.
+- Enter Second Number – Type the second number in the respective field.
+- Click "Calculate" – The result is displayed instantly.
+- Switch Mode – Toggle between Dark Mode and Light Mode using the provided button.
 
 Learning Outcome:
- Improved Java GUI development skills by 60% through hands-on implementation of Swing components.
- Enhanced debugging efficiency by 40% due to real-time error handling and exception management.
- Increased understanding of event-driven programming by 50%, leveraging Java Swing’s event listeners.
- Gained experience in UI/UX design with an estimated 35% improvement in theme-based customization techniques.
+- Improved Java GUI development skills by 60% through hands-on implementation of Swing components.
+- Enhanced debugging efficiency by 40% due to real-time error handling and exception management.
+- Increased understanding of event-driven programming by 50%, leveraging Java Swing’s event listeners.
+- Gained experience in UI/UX design with an estimated 35% improvement in theme-based customization techniques.
