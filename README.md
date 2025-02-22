@@ -19,6 +19,7 @@ Select an Operator – Enter +, -, *, or / in the operator input field.
 Enter Second Number – Type the second number in the respective field.
 Click "Calculate" – The result is displayed instantly.
 Switch Mode – Toggle between Dark Mode and Light Mode using the provided button.
+
 Learning Outcome:
 📌 Improved Java GUI development skills by 60% through hands-on implementation of Swing components.
 📌 Enhanced debugging efficiency by 40% due to real-time error handling and exception management.
